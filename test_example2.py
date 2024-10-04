@@ -1,2 +1,2 @@
-def test_function2():
-    print("Hello world")
+def test_addition():
+    assert 1 + 1 == 2
